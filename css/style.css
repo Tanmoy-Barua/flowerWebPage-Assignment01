@@ -113,5 +113,15 @@ header{
 }
 
 /* support section */
-
+.support{
+    max-width: 1440px;
+    margin: 0 auto;
+    background: rgba(39, 39, 39, 0.05);
+}
+.support-center{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 86px;
+}
 /* main part style finish */
