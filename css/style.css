@@ -156,4 +156,11 @@ header{
     line-height: 30px; /* 166.667% */
     margin: 24px 0 30px;
 }
+/* collection section */
+.collection-items{
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
 /* main part style finish */
