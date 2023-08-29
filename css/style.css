@@ -124,4 +124,36 @@ header{
     text-align: center;
     padding: 86px;
 }
+/* deal section */
+.deal{
+    background: rgba(229, 84, 115, 0.10);
+    text-align: center;
+}
+.deal-content{
+    max-width: 1440px;
+    padding: 100px 0;
+    margin: 120px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.deal-heading{
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.deal-heading span{
+    color: var(--primary-color);
+}
+.deal-des{
+    max-width: 550px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    margin: 24px 0 30px;
+}
 /* main part style finish */
